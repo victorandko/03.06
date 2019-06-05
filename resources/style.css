@@ -1,0 +1,26 @@
+h1{
+   color:lightgreen;
+}
+
+.First{
+  text-align: center;
+  font-family:sans-serif;
+}
+
+.Second{
+  text-align: center;
+  font-family:"Courier New";
+}
+
+.Third{
+  text-align: center;
+  font-size: 18px;
+  font-weight:bold;
+  background-image:url("WhatsApp Image 2018-06-24 at 00.15.00.jpeg");
+  background-position: center;
+}
+
+#D{
+
+  opacity:0.3;
+}
